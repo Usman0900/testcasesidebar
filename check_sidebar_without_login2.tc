@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check_sidebar_without_login2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ae93053-977c-4eb3-8f0e-e375dc70f59a</testCaseGuid>
+</TestCaseEntity>
